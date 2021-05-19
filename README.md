@@ -1,6 +1,6 @@
-### Hi Guys! 👋
+## Hi Guys! 👋
 
-## I am Songmi Oh who is interested in Programing from South Korea.
+### I am Songmi Oh who is interested in Programing from South Korea.
 
 ### 🕹 Tech Main Stack
 
