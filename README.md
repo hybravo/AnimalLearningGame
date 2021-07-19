@@ -1,2 +1,1 @@
-
-Animal Learning Game
+## Animal Learning Game
