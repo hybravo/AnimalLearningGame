@@ -1,4 +1,4 @@
-## Animal Learning Game
+# Animal Learning Game
 
 - 동물 맞추기 랜덤 게임
 
